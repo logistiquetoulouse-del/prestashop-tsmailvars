@@ -1,3 +1,5 @@
+[🇬🇧 English version](README.md) | 🇫🇷 Français
+
 # tsmailvars
 
 Module PrestaShop permettant d’ajouter **la référence produit / référence de déclinaison** dans les e-mails d’alerte de stock générés par le module natif `ps_emailalerts`.
